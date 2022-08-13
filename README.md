@@ -1,15 +1,6 @@
 # Day and Night Mood Animation - Flutter Animation
 
 
-**Packages we are using:**
+<img width="342" alt="Screenshot 2022-08-13 at 3 48 11 PM" src="https://user-images.githubusercontent.com/90485362/184480963-452eb54a-247c-4373-9b99-e61ab7975f12.png">
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-
-
-In this flutter animation project, I'm fully focused on animation so we already provide our full UI in the starting section. We always try to provide a simple way of doing stuff and We just use AnimatedContainer and AnimatedPosition for building this animation, with no complex animation controller.  Hope you like it👍.
-
-### Preview
-
-![Preview](/intro.gif)
-
-![App UI](/ui.png)
+<img width="342" alt="Screenshot 2022-08-13 at 3 49 28 PM" src="https://user-images.githubusercontent.com/90485362/184481040-a755a23c-1243-4ed9-b42c-8fdb4cce5d39.png">
